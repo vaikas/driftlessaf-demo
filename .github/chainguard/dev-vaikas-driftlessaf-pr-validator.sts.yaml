@@ -1,8 +1,7 @@
 issuer: https://accounts.google.com
-# vaikas-val@vaikas-chainguard-dev.iam.gserviceaccount.com
 subject: "109365934063017151638"
 
 permissions:
-  pull_requests: read
+  pull_requests: write
   contents: read
   checks: write
