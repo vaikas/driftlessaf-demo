@@ -1,6 +1,6 @@
 issuer: https://accounts.google.com
-# vaikas-gh-pr-afx@vaikas-chainguard-dev.iam.gserviceaccount.com
-subject: "102739638394825949339"
+# vaikas-afx@vaikas-chainguard-dev.iam.gserviceaccount.com
+subject: "109813338353435768951"
 
 permissions:
   # to update PR titles and descriptions
