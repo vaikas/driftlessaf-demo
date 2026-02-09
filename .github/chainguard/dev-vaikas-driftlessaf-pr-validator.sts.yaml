@@ -1,6 +1,6 @@
 issuer: https://accounts.google.com
-# vaikas-gh-pr-val@vaikas-chainguard-dev.iam.gserviceaccount.com
-subject: "102678112892415745640"
+# vaikas-val@vaikas-chainguard-dev.iam.gserviceaccount.com
+subject: "109365934063017151638"
 
 permissions:
   pull_requests: read
