@@ -1,3 +1,2 @@
-# driftlessaf-examples
+# DriftlessAF Example Repository
 
-Demo for the Chainguard DriftlessAF agentic reconciliation framework
